@@ -1,0 +1,4 @@
+---
+# vars file for http
+
+package_name: httpd
